@@ -1,0 +1,6 @@
+site_name: EMTOP TECHNOLOGY CO.,LTD.
+site_url:
+theme:
+  name: readthedocs
+copyright: |
+  &copy; 2023 <a href="https://www.emtop-tech.com"  target="_blank" rel="noopener">EMTOP</a>
