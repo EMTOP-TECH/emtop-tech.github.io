@@ -6,32 +6,52 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://wiki.emtop-tech.com/Brand_Products/USB_Logic_Analyzer/</loc>
+         <loc>https://wiki.emtop-tech.com/add-on-board/lcd8000-70c/</loc>
          <lastmod>2023-09-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://wiki.emtop-tech.com/Raspberry_PI_Series/audios/</loc>
+         <loc>https://wiki.emtop-tech.com/add-on-board/mipi-7c/</loc>
          <lastmod>2023-09-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://wiki.emtop-tech.com/Raspberry_PI_Series/cameras/</loc>
+         <loc>https://wiki.emtop-tech.com/amazon-series/u2rs232x4/</loc>
          <lastmod>2023-09-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://wiki.emtop-tech.com/USB_Cameras/u3v-series/</loc>
+         <loc>https://wiki.emtop-tech.com/amazon-series/u2rs485x4/</loc>
          <lastmod>2023-09-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://wiki.emtop-tech.com/USB_Cameras/uvc-series/</loc>
+         <loc>https://wiki.emtop-tech.com/nxp-series/nxp-imx8m-mini/</loc>
          <lastmod>2023-09-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://wiki.emtop-tech.com/USB_TO_CAN/USB_TO_CAN/</loc>
+         <loc>https://wiki.emtop-tech.com/nxp-series/nxp-imx8m-plus/</loc>
+         <lastmod>2023-09-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.emtop-tech.com/ti-series/ti-am3358/</loc>
+         <lastmod>2023-09-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.emtop-tech.com/ti-series/ti-am4378/</loc>
+         <lastmod>2023-09-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.emtop-tech.com/ti-series/ti-am5728/</loc>
+         <lastmod>2023-09-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.emtop-tech.com/ti-series/ti-am62x/</loc>
          <lastmod>2023-09-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
