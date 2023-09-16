@@ -9,7 +9,8 @@ nav:
 - Home: index.md
 - NXP Series:  ###一级标题
   - NXP i.MX8M Plus: nxp-series/nxp-imx8m-plus.md ### 二级标题：目录／文件名
-  - NXP I.MX8M MINI: nxp-series/nxp-imx8m-mini.md
+  - NXP i.MX8M MINI: nxp-series/nxp-imx8m-mini.md
+  - NXP i.MX6ull: nxp-series/nxp.imx6ull.md
 - TI Series: 
   - TI AM62X:  ti-series/ti-am62x.md
   - TI AM5728: ti-series/ti-am5728.md

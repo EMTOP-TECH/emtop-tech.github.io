@@ -1,4 +1,6 @@
-This Documents is for LA1010/LA1016/LA2016/LA5016/LA5032
+This Page is for SOM-IMX8MP,SBC-IMX8MP,EC-IMX8MP
+# Product Specification 
 # Software Download Link
+ 
 
 
