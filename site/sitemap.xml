@@ -2,57 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://wiki.emtop-tech.com/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-09-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.emtop-tech.com/add-on-board/lcd8000-70c/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-09-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.emtop-tech.com/add-on-board/mipi-7c/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-09-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.emtop-tech.com/amazon-series/u2rs232x4/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-09-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.emtop-tech.com/amazon-series/u2rs485x4/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-09-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.emtop-tech.com/nxp-series/nxp-imx8m-mini/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-09-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.emtop-tech.com/nxp-series/nxp-imx8m-plus/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-09-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.emtop-tech.com/nxp-series/nxp.imx6ull/</loc>
+         <lastmod>2023-09-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.emtop-tech.com/ti-series/ti-am3358/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-09-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.emtop-tech.com/ti-series/ti-am4378/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-09-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.emtop-tech.com/ti-series/ti-am5728/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-09-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.emtop-tech.com/ti-series/ti-am62x/</loc>
-         <lastmod>2023-09-15</lastmod>
+         <lastmod>2023-09-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
